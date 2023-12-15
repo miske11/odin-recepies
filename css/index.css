@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: sienna;
+}
+
+* {
+    background-color: bisque;
+}
+
+.recipe_list {
+    color: sienna;
+}
+
+.links {
+    color: black;
+}
